@@ -11,8 +11,8 @@
       "type": "SINGLE",
       "filters": [],
       "attributes": [],
-      "versionCode": 201,
-      "versionName": "2.2.2.PROD-DEBUG-SHOPPING-AGENT-V6",
+      "versionCode": 203,
+      "versionName": "2.2.2.PROD-DEBUG-SHOPPING-AGENT-V13",
       "outputFile": "app-release.apk"
     }
   ],
